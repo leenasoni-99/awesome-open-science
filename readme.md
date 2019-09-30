@@ -127,7 +127,7 @@
    - [R for Data Science](http://r4ds.had.co.nz/)
    - [R tutorial: Introduction to cleaning data with R](https://www.youtube.com/watch?v=6PVMJE3HBN0) - DataCamp
    - [Nextflow](https://www.nextflow.io/) - open source tool than enables reproducible and portable computational workflows across cloud and clusters
-
+-  [Open Data Science Wiki](https://wiki.atlan.com/) - a fun, helpful encyclopedia for the data universe aimed at simplifying data jargon.
 ## Organizations
 
 - [OpenScienceMOOC](https://opensciencemooc.eu/) - Community organisation for the development of an Massive Open Online Community for Open Science
